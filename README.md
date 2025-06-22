@@ -1,4 +1,4 @@
-# 💳 Digital Wallet API (FastAPI + SQLite)
+# Digital Wallet API 
 
 Backend service that simulates a digital wallet:
 - Register users
@@ -8,14 +8,14 @@ Backend service that simulates a digital wallet:
 - View transactions
 - Buy products
 
-## ✅ Tech Stack
+## Tech Stack
 - FastAPI
 - SQLite
 - SQLAlchemy
 - bcrypt
 - CurrencyAPI
 
-## 🛠 Setup
+## Setup
 
 1. Clone the repo
 ```bash
